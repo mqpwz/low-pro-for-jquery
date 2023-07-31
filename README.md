@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add plot_images conf_thresh parameter (#8446)
