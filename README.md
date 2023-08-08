@@ -1,1 +1,1 @@
-fix val each epoch
+Update H1 in Explorer API docs (#7813)
