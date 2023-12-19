@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Compare plt.get_backend() in lowercase (#8409)
