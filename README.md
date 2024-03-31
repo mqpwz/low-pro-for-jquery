@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add YOLOv8 LibTorch C++ inference example (#7090)
