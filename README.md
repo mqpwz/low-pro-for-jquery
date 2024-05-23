@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
