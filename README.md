@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+OBB: Fix plot_images (#7592)
