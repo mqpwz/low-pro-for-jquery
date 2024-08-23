@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add docstrings to new HUB functions (#7576)
