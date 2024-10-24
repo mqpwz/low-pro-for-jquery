@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
